@@ -17,7 +17,7 @@ let mock = [{
     name: "God Knows Black Logo T-Shirt",
     price: 19,
     type: "Shirt",
-    image: 'blackshirt.JPG'
+    image: 'blackshirt.jpg'
   },
   {
     id: 4,
@@ -80,28 +80,28 @@ let mock = [{
     name: "With Andrea Crewneck",
     price: 30,
     type: "Crewneck",
-    image: 'withandreahoodie.jpg'
+    image: 'withandreahoodie.JPG'
   },
   {
     id: 13,
     name: "God Knows Black Logo Crewneck",
     price: 30,
     type: "Crewneck",
-    image: 'blackgodhoodie.jpg'
+    image: 'blackgodhoodie.JPG'
   },
   {
     id: 14,
     name: "God Knows White Logo Crewneck",
     price: 30,
     type: "Crewneck",
-    image: 'whitegodhoodie.jpg'
+    image: 'whitegodhoodie.JPG'
   },
   {
     id: 15,
     name: "God Knows Red Logo Crewneck",
     price: 30,
     type: "Crewneck",
-    image: 'redgodhoodie.jpg'
+    image: 'redgodhoodie.JPG'
   },
 ]
 
